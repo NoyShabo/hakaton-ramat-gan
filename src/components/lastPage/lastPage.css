@@ -1,0 +1,10 @@
+
+.score{
+    text-align: center;
+    font-size: 18px;
+}
+
+.score img{
+    width: 300px;
+    border-radius: 30%;
+}

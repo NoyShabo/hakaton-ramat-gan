@@ -1,0 +1,17 @@
+
+body {
+    font-family:  'Varela Round';
+    background-color: rgba(255, 166, 0, 0.842);
+  }
+  @media only screen and (max-width: 800px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+      width: 100%;
+    }
+  
+  }
+
+
+  .css-l6hioc-MuiGrid-root {
+    min-height:100%;
+  }
