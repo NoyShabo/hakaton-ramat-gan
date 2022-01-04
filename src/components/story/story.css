@@ -1,0 +1,56 @@
+/* .question{
+    
+} */
+
+.question{
+    background-color: orange;
+    color: white;
+}
+.question .title{
+    text-decoration: underline;
+
+}
+
+.question .answer{
+    width: 90%;
+    background-color: orange;
+    margin-bottom: 5px;
+}
+
+li{
+    list-style: none;
+}
+
+.question p{
+    font-size: 1.3rem;
+}
+.question .card{
+    text-align: right;
+    background-color: #2f8f45d7;
+    width: 90vw;
+    margin: 0 auto;
+    box-shadow: 3px 4px 5px 2px black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.questionContainer{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.question img{
+    max-width: 400px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.card-contant{
+    padding: 20px;
+}
+
+.voicebtn{
+    margin-bottom: 30px;
+}
